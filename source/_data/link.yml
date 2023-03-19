@@ -33,7 +33,14 @@
 - class_name: 同人声音
   class_desc: #介绍
   link_list:
-    - name: Asmrone
+    - name: Asmr one
       link: https://www.asmr.one/login
-      avatar: #图标
+      avatar: #图标地址
       descr: #介绍
+
+    - name: Hentai ASMR
+      link: https://www.hentaiasmr.moe/
+      avatar: #图标地址
+      descr: #介绍
+
+      
