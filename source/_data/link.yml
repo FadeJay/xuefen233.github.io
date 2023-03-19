@@ -33,14 +33,46 @@
 - class_name: 同人声音
   class_desc: #介绍
   link_list:
-    - name: Asmr one
-      link: https://www.asmr.one/login
+    - name: Asmr one #网站名称
+      link: https://www.asmr.one/login #网站地址
       avatar: #图标地址
       descr: #介绍
 
     - name: Hentai ASMR
-      link: https://www.hentaiasmr.moe/
+      link: https://www.hentaiasmr.moe/ 
       avatar: #图标地址
       descr: #介绍
 
+    - name: Japanese ASMR
+      link: https://japaneseasmr.com
+      avatar: #图标地址
+      descr: #介绍
+
+    - name: JASMR
+      link: https://www.jasmr.net/
+      avatar: #图标地址
+      descr: #介绍
+
+- class_name: 图片壁纸
+  class_desc: #介绍
+  link_list:
+    - name: Pixiv
+      link: https://www.pixiv.net/
+      avatar: #图标地址
+      descr: #介绍
+
+    - name: Kemono
+      link: https://kemono.party/artists
+      avatar: #图标地址
+      descr: #介绍
+
+    - name: Yandere
+      link: https://yande.re
+      avatar: #图标地址
+      descr: #介绍
+
+    - name: Awesome
+      link: https://wallhaven.cc/
+      avatar: #图标地址
+      descr: #介绍
       
