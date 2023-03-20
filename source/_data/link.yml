@@ -25,10 +25,6 @@
       link: https://twitter.com/
       avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
       descr: 社交分享平台
-    - name: asmr
-      link: https://www.youtube.com/
-      avatar: 
-      descr: 視頻網站
 
 - class_name: 图片壁纸
   class_desc: #介绍
