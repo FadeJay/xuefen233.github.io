@@ -32,7 +32,7 @@
     - name: Pixiv
       link: https://www.pixiv.net/
       avatar: https://s2.loli.net/2023/03/21/D5JmMbWpYd4B3lc.png
-      descr: #介绍
+      descr: 绘图交流平台
 
     - name: Kemono
       link: https://kemono.party/artists
@@ -84,7 +84,6 @@
       avatar: #图标地址
       descr: #介绍
 
-
 - class_name: 同人声音
   class_desc: #介绍
   link_list:
@@ -108,3 +107,23 @@
       avatar: #图标地址
       descr: #介绍
 
+- class_name: 在线漫画
+  class_desc: #介绍
+  link_list:
+    - name: Tachiyomi #网站名称
+      link: https://tachiyomi.org/ #网站地址
+      avatar: #图标地址
+      descr: #介绍
+
+    - name: NoyAcg
+      link: https://noy.asia/
+      avatar: #图标地址
+      descr: #介绍
+
+# - class_name: 大标题
+#   class_desc: #介绍
+#   link_list:
+#     - name:  #网站名称
+#       link: #网站地址
+#       avatar: #图标地址
+#       descr: #介绍
