@@ -120,10 +120,55 @@
       avatar: #图标地址
       descr: #介绍
 
-# - class_name: 大标题
-#   class_desc: #介绍
-#   link_list:
-#     - name:  #网站名称
-#       link: #网站地址
-#       avatar: #图标地址
-#       descr: #介绍
+    - name: NHentai
+      link: https://nhentai.net/
+      avatar: #图标地址
+      descr: #介绍
+
+    - name: ISekai
+      link: https://isekai.ch/
+      avatar: #图标地址
+      descr: #介绍
+
+    - name: HTManGa
+      link: https://www.htmanga.top/
+      avatar: #图标地址
+      descr: #介绍
+      
+    - name: JMcomic
+      link: https://jmcomic.bet/
+      avatar: #图标地址
+      descr: #介绍
+
+- class_name: 资源论坛
+  class_desc: #介绍
+  link_list:
+    - name: ACGBOX
+      link: https://www.acgbox.link/
+      avatar: #图标地址
+      descr: #介绍
+
+    - name: XinHao
+      link: https://ayxinhao.net/
+      avatar: #图标地址
+      descr: #介绍
+
+    - name: Gal123
+      link: https://www.gal123.com/
+      avatar: #图标地址
+      descr: #介绍
+
+    - name: 灵梦御所
+      link: https://blog.reimu.net/guidance
+      avatar: #图标地址
+      descr: #介绍
+
+    - name: 次元幻想
+      link: https://hxcy.moe/
+      avatar: #图标地址
+      descr: #介绍
+      
+    - name: 次元猫
+      link: http://ciyuan.cat/
+      avatar: #图标地址
+      descr: #介绍
