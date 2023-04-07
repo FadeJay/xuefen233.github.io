@@ -36,52 +36,52 @@
 
     - name: Kemono
       link: https://kemono.party/artists
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: Yandere
       link: https://yande.re
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: Awesome
       link: https://wallhaven.cc/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: Konachan
       link: https://konachan.com/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: DeviantArt
       link: https://www.deviantart.com/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: alphacoders
       link: https://wall.alphacoders.com/?lang=Chinese
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
       
     - name: 花狸猫
       link: https://huamaobizhi.com/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: 极简壁纸
       link: https://huamaobizhi.com/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: 简单壁纸
       link: http://simpledesktops.com/browse/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: 动漫图片壁纸
       link: https://anime-pictures.net/?lang=zh_CN
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
 - class_name: 同人声音
@@ -89,22 +89,22 @@
   link_list:
     - name: Asmr one #网站名称
       link: https://www.asmr.one/login #网站地址
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: Hentai ASMR
       link: https://www.hentaiasmr.moe/ 
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: Japanese ASMR
       link: https://japaneseasmr.com
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: JASMR
       link: https://www.jasmr.net/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
 - class_name: 在线漫画
@@ -112,32 +112,32 @@
   link_list:
     - name: Tachiyomi #网站名称
       link: https://tachiyomi.org/ #网站地址
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: NoyAcg
       link: https://noy.asia/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: NHentai
       link: https://nhentai.net/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: ISekai
       link: https://isekai.ch/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: HTManGa
       link: https://www.htmanga.top/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
       
     - name: JMcomic
       link: https://jmcomic.bet/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
 - class_name: 资源论坛
@@ -145,30 +145,30 @@
   link_list:
     - name: ACGBOX
       link: https://www.acgbox.link/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: XinHao
       link: https://ayxinhao.net/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: Gal123
       link: https://www.gal123.com/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: 灵梦御所
       link: https://blog.reimu.net/guidance
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
 
     - name: 次元幻想
       link: https://hxcy.moe/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
       
     - name: 次元猫
       link: http://ciyuan.cat/
-      avatar: #图标地址
+      avatar: https://s2.loli.net/2023/04/07/lOgYpz5PW3kcyxA.png
       descr: #介绍
